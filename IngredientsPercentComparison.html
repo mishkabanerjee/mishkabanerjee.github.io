@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multivitamin Ingredients and Percentage Values</title>
+  <link rel="stylesheet" href="styles/IngredientsPercentComparison-style.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>  
+</head>
+<body>
+  <div id="mainContent">
+    <h1><center>Multivitamin Ingredients and Percentage Values</center></h1>
+    <div class="chart-container">    
+      <div>
+        <label for="brand1">Select Brand 1:</label>
+        <select id="brand1">
+          <option value="Nature Made">Nature Made</option>
+          <option value="Sundown">Sundown</option>
+          <option value="Centrum">Centrum</option>
+          <option value="One A Day">One A Day</option>
+        </select>
+      </div>
+      <div class="annotation" id="annotation1"></div>
+      <div class="chart">
+        <svg id="chart1" width="900" height="800"></svg>
+        <g class="annotation" id="annotation1"></div>
+      </div>
+    </div>
+
+    <div class="chart-container">    
+      <div>
+        <label for="brand2">Select Brand 2:</label>
+        <select id="brand2">        
+          <option value="Sundown">Sundown</option>
+          <option value="Centrum">Centrum</option>
+          <option value="One A Day">One A Day</option>
+          <option value="Nature Made">Nature Made</option>
+        </select>
+      </div>
+      <div class="annotation" id="annotation2"></div>
+      <div class="chart">
+        <svg id="chart2" width="900" height="800"></svg>
+      </div>
+      <!-- Add the tooltip div -->
+      <div class="tooltip" id="tooltip"></div>
+    </div>
+  </div>
+  <button class="top-right-btn" onclick="redirectToAnotherPage()"></button>
+  <button class="bottom-right-btn" onclick="redirectToAnotherPage2()"></button>
+  <div class="caution-message">
+    <p>Not all brands have the same ingredients!</p>
+  </div>
+  <script src="scripts/IngredientsPercentComparison-scripts.js"></script>
+</body>
+</html>
+

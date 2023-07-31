@@ -1,0 +1,84 @@
+brand,product,vitamin,actualSubstance,amountPerTabletmcg,amountPerTablet,percentDailyValue
+Nature Made,Multivitamin,Vitamin A,Retinyl Acetate,250,250 mcg,33%
+Nature Made,Multivitamin,Vitamin A,Beta Carotene,450,450 mcg,50%
+Nature Made,Multivitamin,Pantothenic Acid, d-Calcium Pantothenate,10000,10 mg,200%
+Nature Made,Multivitamin,Vitamin C ,Ascorbic Acid,180000,180 mg,200%
+Nature Made,Multivitamin,Calcium,Calcium Carbonate,160000,160 mg,12%
+Nature Made,Multivitamin,Vitamin D3,Cholecalciferol,25,25 mcg,125%
+Nature Made,Multivitamin,Iron,Ferrous Fumarate,18000,18 mg,100%
+Nature Made,Multivitamin,Vitamin E,dl-Alpha Tocopheryl Acetate,22500,22.5 mg,150%
+Nature Made,Multivitamin,Iodine,Potassium Iodide,150,150 mcg,100%
+Nature Made,Multivitamin,Vitamin K,Phytonadione,80,80 mcg,67%
+Nature Made,Multivitamin,Magnesium,Magnesium Oxide,100000,100 mg,24%
+Nature Made,Multivitamin,Thiamin,Thiamine Mononitrate,1500,1.5 mg,125%
+Nature Made,Multivitamin,Zinc,Zinc Oxide,15000,15 mg,136%
+Nature Made,Multivitamin,Riboflavin,Riboflavin,1700,1.7 mg,131%
+Nature Made,Multivitamin,Selenium,Sodium Selenate,70,70 mcg,127%
+Nature Made,Multivitamin,Niacin,Niacinamide,20000,20 mg,125%
+Nature Made,Multivitamin,Copper,Cupric Sulfate,2000,2 mg,222%
+Nature Made,Multivitamin,Vitamin B6,Pyridoxine Hydrochloride,2000,2 mg,118%
+Nature Made,Multivitamin,Manganese,Manganese Sulfate,4000,4 mg,174%
+Nature Made,Multivitamin,Folate,Folic Acid,400,400 mcg,167%
+Nature Made,Multivitamin,Chromium,Chromium Chloride,120,120 mcg,343%
+Nature Made,Multivitamin,Vitamin B12,Cyanocobalamin,6,6 mcg,250%
+Nature Made,Multivitamin,Molybdenum,Sodium Molybdate,75,75 mcg,167%
+Nature Made,Multivitamin,Biotin,Biotin,30,30 mcg,100%
+Sundown,Multivitamin Gummies,Calories,Calories,,15,0%
+Sundown,Multivitamin Gummies,Total Carbohydrate,Carbohydrate,3000000,3 g,1%
+Sundown,Multivitamin Gummies,Added Sugars,Sugars,2000000,2 g,4%
+Sundown,Multivitamin Gummies,Folate,Folic Acid,400,400 mcg,167%
+Sundown,Multivitamin Gummies,Vitamin B12,Cyanocobalamin,6,6 mcg,250%
+Sundown,Multivitamin Gummies,Vitamin A,Retinyl Acetate,750,750 mcg,83%
+Sundown,Multivitamin Gummies,Biotin,d-Biotin,300,300 mcg,1000%
+Sundown,Multivitamin Gummies,Pantothenic Acid,d-Calcium Pantothenate,5000,5 mg,100%
+Sundown,Multivitamin Gummies,Vitamin C,Ascorbic Acid,60000,60 mg,67%
+Sundown,Multivitamin Gummies,Magnesium,Magnesium Citrate,2000,2 mg,1%
+Sundown,Multivitamin Gummies,Vitamin D3,Cholecalciferol,20,20 mcg,100%
+Sundown,Multivitamin Gummies,Zinc,Zinc Citrate,5000,5 mg,45%
+Sundown,Multivitamin Gummies,Vitamin E,dl-Alpha Tocopheryl Acetate,6700,6.7 mg,45%
+Sundown,Multivitamin Gummies,Niacin,Niacinamide,10000,10 mg,63%
+Sundown,Multivitamin Gummies,Vitamin B6,Pyridoxine Hydrochloride,2000,2 mg,118%
+Sundown,Multivitamin Gummies,Choline Bitartrate,Choline Bitartrate,100,100 mcg,
+Sundown,Multivitamin Gummies,Inositol,Inositol,60,60 mcg,
+Centrum,Multivitamin,Vitamin A,Beta-Carotene,1050,"1,050 mcg",117%
+Centrum,Multivitamin,Vitamin C,,60000,60 mg,67%
+Centrum,Multivitamin,Vitamin D3,,25,25 mcg,125%
+Centrum,Multivitamin,Vitamin E,,13500,13.5 mg,90%
+Centrum,Multivitamin,Vitamin K,,25,25 mcg,21%
+Centrum,Multivitamin,Thiamin,,1500,1.5 mg,125%
+Centrum,Multivitamin,Riboflavin,,1700,1.7 mg,131%
+Centrum,Multivitamin,Niacin,,20000,20 mg,125%
+Centrum,Multivitamin,Vitamin B6,,62000,62 mg,118%
+Centrum,Multivitamin,Folate,Folic Acid,400,400 mcg,167%
+Centrum,Multivitamin,Vitamin B12,,26,2 6 mcg,250%
+Centrum,Multivitamin,Biotin,,30,30 mcg,100%
+Centrum,Multivitamin,Pantothenic Acid,,10000,10 mg,200%
+Centrum,Multivitamin,Calcium,,200000,200 mg,15%
+Centrum,Multivitamin,Iron,,18000,18 mg ,100%
+Centrum,Multivitamin,Phosphorus,,20000,20 mg ,2%
+Centrum,Multivitamin,Iodine,,150,150 mcg,100%
+Centrum,Multivitamin,Magnesium,,50000,50 mg ,12%
+Centrum,Multivitamin,Zinc,,11000,11 mg ,100%
+Centrum,Multivitamin,Selenium,,55,55 mcg ,100%
+Centrum,Multivitamin,Copper,,500,0.5 mg ,56%
+Centrum,Multivitamin,Manganese,,2300,2.3 mg ,100%
+Centrum,Multivitamin,Chromium,,35,35 mcg ,100%
+Centrum,Multivitamin,Molybdenum,,45,45 mcg ,100%
+Centrum,Multivitamin,Chloride,,72000,72 mg ,3%
+Centrum,Multivitamin,Potassium,,80000,80 mg ,2%
+One A Day,Adult Multi + Immunity Defense,Calories,,,15,
+One A Day,Adult Multi + Immunity Defense,Total Carbohydrate,,3,3 g,1%
+One A Day,Adult Multi + Immunity Defense,Added Sugars,,,2g,4%
+One A Day,Adult Multi + Immunity Defense,Vitamin A,Retinyl Acetate,,600 mcg,67%
+One A Day,Adult Multi + Immunity Defense,Vitamin C,Ascorbic Acid,,90 mg,100%
+One A Day,Adult Multi + Immunity Defense,Vitamin D,Cholecalciferol,,50 mcg,250%
+One A Day,Adult Multi + Immunity Defense,Vitamin E,dl-Alpha-Tocopheryl Acetate,,13.5 mg,90%
+One A Day,Adult Multi + Immunity Defense,Niacin,Niacinamide,,16 mg,100%
+One A Day,Adult Multi + Immunity Defense,Vitamin B6,Pyridoxine Hydrochloride,,1.7 mg,100%
+One A Day,Adult Multi + Immunity Defense,Folate,Folic Acid,,240 mcg,100%
+One A Day,Adult Multi + Immunity Defense,Vitamin B12,Cyanocobalamin,,1.2 mcg,50%
+One A Day,Adult Multi + Immunity Defense,Biotin,D-biotin,,30 mcg,100%
+One A Day,Adult Multi + Immunity Defense,Pantothenic Acid,D-Calcium Pantothenate,,2 mg,40%
+One A Day,Adult Multi + Immunity Defense,Iodine,Potassium Iodide,,150 mcg,100%
+One A Day,Adult Multi + Immunity Defense,Zinc,Zinc Sulfate,,5 mg,45%
+One A Day,Adult Multi + Immunity Defense,Selenium,Sodium Selenate,,55 mcg,100%

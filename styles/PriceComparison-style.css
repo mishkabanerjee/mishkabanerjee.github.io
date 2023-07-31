@@ -1,0 +1,77 @@
+.scatter-plot {
+    width: 800px;
+    height: 500px;
+    margin: 20px auto;
+    position: relative;
+}
+
+.scatter-dot {
+    opacity: 0.7;
+}
+
+.scatter-label {
+    font-size: 14px;
+}
+
+.quadrant-annotation {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Styles for the button */
+.top-right-btn {
+    position: fixed;
+    top: 20px; /* Adjust the distance from the bottom as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    width: 150px; /* Adjust the width of the button as needed */
+    height: 150px; /* Adjust the height of the button as needed */
+    background-color: #007bff;
+    border: none;
+    border-radius: 50%; /* Make the button circular */
+    cursor: pointer;
+    background-image: url('https://icon-library.com/images/scroll-up-icon/scroll-up-icon-5.jpg'); /* Replace 'path/to/your/down-arrow-image.png' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+}
+
+/* Additional styles to make the button more interactive */
+.top-right-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Styles for the button */
+.bottom-right-btn {
+    position: fixed;
+    bottom: 20px; /* Adjust the distance from the bottom as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    width: 150px; /* Adjust the width of the button as needed */
+    height: 150px; /* Adjust the height of the button as needed */
+    background-color: #007bff;
+    border: none;
+    border-radius: 50%; /* Make the button circular */
+    cursor: pointer;
+    background-image: url('https://icon-library.com/images/scroll-down-icon-png/scroll-down-icon-png-10.jpg'); /* Replace 'path/to/your/down-arrow-image.png' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+}
+
+/* Additional styles to make the button more interactive */
+.bottom-right-btn:hover {
+    background-color: #0056b3;
+}
+
+.caution-message {
+    position: fixed;
+    background-color: #ffc107;
+    border: 10px solid red;
+    padding: 10px;
+    color: #333;
+    font-weight: bold;
+    font-size: x-large;
+    top: 250px;
+    right: 20px;
+    height: 100px;
+    width: 400px;
+    align-items: center;
+    margin: 0 auto;
+  }

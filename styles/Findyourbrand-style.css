@@ -1,0 +1,76 @@
+/* Add some basic styling to the chart */
+.chart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the container height to full viewport height */
+  }
+
+  .chart {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .bar {
+    /*fill: rgb(185, 93, 181);*/
+    transition: fill 0.2s;
+  }
+
+  .bar:hover {
+    fill: orange;
+  }
+
+  .annotation {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .tooltip {
+    position: absolute;
+    pointer-events: none;
+    background-color: #f9f9f9;
+    padding: 5px;
+    border: 1px solid #ccc;
+    font-size: 12px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s;
+  }
+
+  /* Styles for the button */
+.top-right-btn {
+    position: fixed;
+    top: 20px; /* Adjust the distance from the bottom as needed */
+    right: 20px; /* Adjust the distance from the right as needed */
+    width: 150px; /* Adjust the width of the button as needed */
+    height: 150px; /* Adjust the height of the button as needed */
+    background-color: #007bff;
+    border: none;
+    border-radius: 50%; /* Make the button circular */
+    cursor: pointer;
+    background-image: url('https://icon-library.com/images/scroll-up-icon/scroll-up-icon-5.jpg'); /* Replace 'path/to/your/down-arrow-image.png' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+}
+
+/* Additional styles to make the button more interactive */
+.top-right-btn:hover {
+    background-color: #0056b3;
+}
+
+.caution-message {
+    position: fixed;
+    background-color: #ffc107;
+    border: 10px solid red;
+    padding: 10px;
+    color: #333;
+    font-weight: bold;
+    font-size: x-large;
+    top: 250px;
+    right: 20px;
+    height: 100px;
+    width: 400px;
+    align-items: center;
+    margin: 0 auto;
+  }

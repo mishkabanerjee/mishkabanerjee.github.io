@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vitamin Brands and Percentage Values</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="stylesheet" href="styles/Findyourbrand-style.css">
+</head>
+<body>
+  <h1><center>Choose a Vitamin you are looking for!</center></h1>
+  
+  <!-- Create a chart container for the new chart -->
+  <div class="chart-container">
+    <div>
+      <label for="vitamin">Select Vitamin:</label>
+      <select id="vitamin"></select>
+    </div>
+    <div class="annotation" id="vitamin-annotation"></div>
+    <div class="chart">
+      <svg id="vitamin-chart" width="900" height="800"></svg>
+    </div>
+    <div class="tooltip" id="tooltip"></div>
+  </div>
+  <button class="top-right-btn" onclick="redirectToAnotherPage()"></button>
+  <div class="caution-message">
+    <p>How do each brand stack up against one another per ingredients???</p>
+  </div>
+  <script src="scripts/Findyourbrand-scripts.js"></script>
+</body>
+</html>
